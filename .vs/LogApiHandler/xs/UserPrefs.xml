@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{CB515857-2C66-4AE4-9AF0-27B3C2FC5EC5}|Default">
+  <MonoDevelop.Ide.ItemProperties.ConsoleTestApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestApi/Program.cs">
+    <Files>
+      <File FileName="LogApiHandler/LogEventData.cs" Line="1" Column="1" />
+      <File FileName="LogWebApi/Controllers/LogController.cs" Line="1" Column="1" />
+      <File FileName="LogWebApi/Repository/IRepository.cs" Line="1" Column="1" />
+      <File FileName="LogWebApi/Context/MongoContext.cs" Line="1" Column="1" />
+      <File FileName="LogWebApi/web.config" Line="1" Column="1" />
+      <File FileName="LogWebApi/Startup.cs" Line="1" Column="1" />
+      <File FileName="LogWebApi/appsettings.json" Line="3" Column="36" />
+      <File FileName="LogWebApi/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="ConsoleTestApp/Program.cs" Line="16" Column="16" />
+      <File FileName="LogApiHandler/Extensions/LoggerServiceExtension.cs" Line="1" Column="1" />
+      <File FileName="LogApiHandler/Common/AsyncHelpers.cs" Line="1" Column="1" />
+      <File FileName="TestApi/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="TestApi/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

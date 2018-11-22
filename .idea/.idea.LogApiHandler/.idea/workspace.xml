@@ -1,0 +1,1081 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5cc6355-4b22-4fba-aa05-c3bb3a583a76" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="MongoContext.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LogWebApi/Context/MongoContext.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="47" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="47" />
+              <folding>
+                <marker date="1537339178000" expanded="true" signature="6:115" ph="..." />
+                <marker date="1537339178000" expanded="true" signature="144:829" ph="{...}" />
+                <marker date="1537339178000" expanded="true" signature="176:827" ph="{...}" />
+                <marker date="1537339178000" expanded="true" signature="359:618" ph="{...}" />
+                <marker date="1537339178000" expanded="true" signature="679:821" ph="{...}" />
+                <marker date="1537339178000" expanded="true" signature="705:811" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppSettings.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LogWebApi/Model/AppSettings/AppSettings.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1537170610000" expanded="true" signature="37:426" ph="{...}" />
+                <marker date="1537170610000" expanded="true" signature="68:135" ph="{...}" />
+                <marker date="1537170610000" expanded="true" signature="165:424" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IRepository.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LogWebApi/Repository/IRepository.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1536936814000" expanded="true" signature="6:96" ph="..." />
+                <marker date="1536936814000" expanded="true" signature="128:380" ph="{...}" />
+                <marker date="1536936814000" expanded="true" signature="180:378" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LogRepository.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LogWebApi/Repository/LogRepository.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="16" column="58" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="58" />
+              <folding>
+                <marker date="1537254408000" expanded="false" signature="6:276" ph="..." />
+                <marker date="1537254408000" expanded="true" signature="308:2496" ph="{...}" />
+                <marker date="1537254408000" expanded="true" signature="369:2494" ph="{...}" />
+                <marker date="1537254408000" expanded="true" signature="490:561" ph="{...}" />
+                <marker date="1537254408000" expanded="true" signature="612:695" ph="{...}" />
+                <marker date="1537254408000" expanded="true" signature="777:1949" ph="{...}" />
+                <marker date="1537254408000" expanded="true" signature="963:1050" ph="{...}" />
+                <marker date="1537254408000" expanded="true" signature="1106:1210" ph="{...}" />
+                <marker date="1537254408000" expanded="true" signature="1264:1405" ph="{...}" />
+                <marker date="1537254408000" expanded="true" signature="1459:1559" ph="{...}" />
+                <marker date="1537254408000" expanded="true" signature="1610:1708" ph="{...}" />
+                <marker date="1537254408000" expanded="false" signature="1958:2488" ph="未实现方法" />
+                <marker date="1537254408000" expanded="true" signature="2026:2095" ph="{...}" />
+                <marker date="1537254408000" expanded="true" signature="2158:2227" ph="{...}" />
+                <marker date="1537254408000" expanded="true" signature="2272:2341" ph="{...}" />
+                <marker date="1537254408000" expanded="true" signature="2399:2468" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LogWebApi/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="455">
+              <caret line="44" column="13" lean-forward="true" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+              <folding>
+                <marker date="1537339090000" expanded="true" signature="6:591" ph="..." />
+                <marker date="1537339090000" expanded="true" signature="616:2651" ph="{...}" />
+                <marker date="1537339090000" expanded="true" signature="643:2649" ph="{...}" />
+                <marker date="1537339090000" expanded="true" signature="702:765" ph="{...}" />
+                <marker date="1537339090000" expanded="true" signature="988:1734" ph="{...}" />
+                <marker date="1537339090000" expanded="true" signature="1233:1571" ph="注入config和数据访问信息" />
+                <marker date="1537339090000" expanded="true" signature="1611:1722" ph="{...}" />
+                <marker date="1537339090000" expanded="true" signature="1952:2643" ph="{...}" />
+                <marker date="1537339090000" expanded="true" signature="1999:2076" ph="{...}" />
+                <marker date="1537339090000" expanded="true" signature="2200:2317" ph="/* Enable middleware to serve swagger-ui (HTML, JS, CSS, etc.), ... */" />
+                <marker date="1537339090000" expanded="true" signature="2351:2550" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appsettings.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LogWebApi/appsettings.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="5" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LogWebApi/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1536810242000" expanded="true" signature="6:255" ph="..." />
+                <marker date="1536810242000" expanded="true" signature="280:607" ph="{...}" />
+                <marker date="1536810242000" expanded="true" signature="307:605" ph="{...}" />
+                <marker date="1536810242000" expanded="true" signature="360:434" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DBSettings.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LogWebApi/Model/AppSettings/DBSettings.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1537338562000" expanded="false" signature="6:96" ph="..." />
+                <marker date="1537338562000" expanded="true" signature="135:536" ph="{...}" />
+                <marker date="1537338562000" expanded="true" signature="142:190" ph="/// 数据库配置信息 ... " />
+                <marker date="1537338562000" expanded="true" signature="218:534" ph="{...}" />
+                <marker date="1537338562000" expanded="true" signature="233:306" ph="/// mongodb connectionstring ... " />
+                <marker date="1537338562000" expanded="true" signature="368:433" ph="/// mongodb database ... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LogEventData.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LogWebApi/Model/LogEventData.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1537162852000" expanded="false" signature="6:101" ph="..." />
+                <marker date="1537162852000" expanded="true" signature="128:1662" ph="{...}" />
+                <marker date="1537162852000" expanded="true" signature="160:1660" ph="{...}" />
+                <marker date="1537162852000" expanded="true" signature="233:284" ph="/// 时间 ... " />
+                <marker date="1537162852000" expanded="true" signature="429:482" ph="/// 错误级别 ... " />
+                <marker date="1537162852000" expanded="true" signature="533:586" ph="/// 日志来源 ... " />
+                <marker date="1537162852000" expanded="true" signature="641:694" ph="/// 日志信息 ... " />
+                <marker date="1537162852000" expanded="true" signature="747:798" ph="/// 类名 ... " />
+                <marker date="1537162852000" expanded="true" signature="853:905" ph="/// 方法名 ... " />
+                <marker date="1537162852000" expanded="true" signature="961:1014" ph="/// 完整信息 ... " />
+                <marker date="1537162852000" expanded="true" signature="1068:1127" ph="/// 行号 ... " />
+                <marker date="1537162852000" expanded="true" signature="1183:1243" ph="/// 文件名 ... " />
+                <marker date="1537162852000" expanded="true" signature="1297:1348" ph="/// ip ... " />
+                <marker date="1537162852000" expanded="true" signature="1396:1473" ph="/// 是否发送邮件,不为空则发送邮件，多个接收人用英文逗号隔开 ... " />
+                <marker date="1537162852000" expanded="true" signature="1580:1654" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ResponseModel.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LogWebApi/Model/ResponseModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1537255338000" expanded="false" signature="6:114" ph="..." />
+                <marker date="1537255338000" expanded="true" signature="141:945" ph="{...}" />
+                <marker date="1537255338000" expanded="true" signature="177:943" ph="{...}" />
+                <marker date="1537255338000" expanded="true" signature="344:396" ph="/// 返回码 ... " />
+                <marker date="1537255338000" expanded="true" signature="437:548" ph="{...}" />
+                <marker date="1537255338000" expanded="true" signature="557:610" ph="/// 结果说明 ... " />
+                <marker date="1537255338000" expanded="true" signature="640:745" ph="{...}" />
+                <marker date="1537255338000" expanded="true" signature="762:816" ph="/// 返回的数据 ... " />
+                <marker date="1537255338000" expanded="true" signature="838:937" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ConnectionString</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/LogApiHandler/Logger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LogApiHandler/LogWriter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LogApiHandler/LogEventDataAsync.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestApi/Controllers/ValuesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LogWebApi/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LogWebApi/web.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LogWebApi/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LogApiHandler/Core/MethodItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LogApiHandler/Core/LocationInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LogApiHandler/Core/StackFrameItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LogApiHandler/Common/AsyncHelpers.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LogApiHandler/Common/RequestHelpers.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LogApiHandler/Extensions/LoggerServiceExtension.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleTestApp/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LogWebApi/Model/LogEventData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LogWebApi/Model/ResponseModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LogWebApi/Model/QueryModel/QueryLogModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LogWebApi/Model/AppSettings/AppSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LogWebApi/Model/AppSettings/DBSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LogWebApi/Common/EmailHelpers.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LogWebApi/Context/MongoContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LogWebApi/Extensions/ExceptionMiddlewareExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LogWebApi/Repository/LogRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LogWebApi/Repository/IRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LogWebApi/Controllers/LogController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LogApiHandler/LogEventData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LogApiHandler/LogLevel.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/LogApiHandler/LogLevel.cs" />
+        <option value="$PROJECT_DIR$/LogWebApi/appsettings.json" />
+        <option value="$PROJECT_DIR$/ConsoleTestApp/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="20" />
+    <option name="y" value="23" />
+    <option name="width" value="1260" />
+    <option name="height" value="709" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="LogApiHandler (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="LogApiHandler (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="LogWebApi" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="LogApiHandler (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="LogWebApi" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Context" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="LogApiHandler (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="LogWebApi" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Controllers" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="LogApiHandler (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="LogWebApi" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Extensions" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="LogApiHandler (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="LogWebApi" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Properties" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="LogApiHandler (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="LogWebApi" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Repository" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Unnamed">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/LogWebApi/bin/Debug/netcoreapp2.1/LogWebApi.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LogWebApi" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/LogWebApi/LogWebApi.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <browser start="true" url="http://localhost:5000" />
+    </configuration>
+    <configuration name="Unnamed" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/ConsoleTestApp/bin/Debug/netcoreapp2.1/ConsoleTestApp.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ConsoleTestApp" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ConsoleTestApp/ConsoleTestApp.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <browser url="http://localhost:5000" />
+    </configuration>
+    <list>
+      <item itemvalue=".NET Project.Default" />
+      <item itemvalue=".NET Project.Unnamed" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5cc6355-4b22-4fba-aa05-c3bb3a583a76" name="Default" comment="" />
+      <created>1540643387446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540643387446</updated>
+      <workItem from="1540643391334" duration="4156000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4156000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="20" y="23" width="1260" height="709" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="REST Client" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32440946" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="NuGet" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="11" visible="true" weight="0.32440946" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="9" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="2" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="15" />
+      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="3" />
+      <window_info anchor="bottom" id="REST Client" order="4" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.4" />
+      <window_info anchor="right" id="Errors In Solution" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="8" />
+      <window_info anchor="bottom" id="Find" order="10" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/LogWebApi/Controllers/LogController.cs</url>
+          <line>37</line>
+          <properties documentPath="$PROJECT_DIR$/LogWebApi/Controllers/LogController.cs" initialLine="37">
+            <startOffsets>
+              <startOffset value="1094" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="1105" />
+            </endOffsets>
+          </properties>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/TestApi/Properties/launchSettings.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogApiHandler/Common/AsyncHelpers.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1537337254000" expanded="false" signature="6:90" ph="..." />
+            <marker date="1537337254000" expanded="true" signature="122:815" ph="{...}" />
+            <marker date="1537337254000" expanded="true" signature="163:813" ph="{...}" />
+            <marker date="1537337254000" expanded="true" signature="218:389" ph="{...}" />
+            <marker date="1537337254000" expanded="true" signature="471:807" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogApiHandler/Core/LocationInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1537337208000" expanded="false" signature="6:118" ph="..." />
+            <marker date="1537337208000" expanded="true" signature="148:13323" ph="{...}" />
+            <marker date="1537337208000" expanded="true" signature="182:13321" ph="{...}" />
+            <marker date="1537337208000" expanded="false" signature="197:9516" ph="Public Instance Constructors" />
+            <marker date="1537337208000" expanded="true" signature="243:686" ph="/// Constructor ... " />
+            <marker date="1537337208000" expanded="true" signature="753:4501" ph="{...}" />
+            <marker date="1537337208000" expanded="true" signature="1142:4484" ph="{...}" />
+            <marker date="1537337208000" expanded="true" signature="1176:4054" ph="{...}" />
+            <marker date="1537337208000" expanded="true" signature="1410:1761" ph="{...}" />
+            <marker date="1537337208000" expanded="true" signature="1614:1701" ph="{...}" />
+            <marker date="1537337208000" expanded="true" signature="1875:2226" ph="{...}" />
+            <marker date="1537337208000" expanded="true" signature="2079:2166" ph="{...}" />
+            <marker date="1537337208000" expanded="true" signature="2279:4036" ph="{...}" />
+            <marker date="1537337208000" expanded="true" signature="2688:2825" ph="{...}" />
+            <marker date="1537337208000" expanded="true" signature="3096:4014" ph="{...}" />
+            <marker date="1537337208000" expanded="true" signature="3264:3599" ph="{...}" />
+            <marker date="1537337208000" expanded="true" signature="3420:3569" ph="{...}" />
+            <marker date="1537337208000" expanded="true" signature="4112:4470" ph="{...}" />
+            <marker date="1537337208000" expanded="true" signature="4151:4452" ph="/* This security exception will occur if the caller does not have ... */" />
+            <marker date="1537337208000" expanded="true" signature="4510:4685" ph="/// 自定义获取位置信息，异步线程内获取期望值 ... " />
+            <marker date="1537337208000" expanded="true" signature="4766:8516" ph="{...}" />
+            <marker date="1537337208000" expanded="true" signature="5155:8499" ph="{...}" />
+            <marker date="1537337208000" expanded="true" signature="5189:8069" ph="{...}" />
+            <marker date="1537337208000" expanded="true" signature="5425:5776" ph="{...}" />
+            <marker date="1537337208000" expanded="true" signature="5629:5716" ph="{...}" />
+            <marker date="1537337208000" expanded="true" signature="5890:6241" ph="{...}" />
+            <marker date="1537337208000" expanded="true" signature="6094:6181" ph="{...}" />
+            <marker date="1537337208000" expanded="true" signature="6294:8051" ph="{...}" />
+            <marker date="1537337208000" expanded="true" signature="6703:6840" ph="{...}" />
+            <marker date="1537337208000" expanded="true" signature="7111:8029" ph="{...}" />
+            <marker date="1537337208000" expanded="true" signature="7279:7614" ph="{...}" />
+            <marker date="1537337208000" expanded="true" signature="7435:7584" ph="{...}" />
+            <marker date="1537337208000" expanded="true" signature="8127:8485" ph="{...}" />
+            <marker date="1537337208000" expanded="true" signature="8166:8467" ph="/* This security exception will occur if the caller does not have ... */" />
+            <marker date="1537337208000" expanded="true" signature="8526:9075" ph="/// Constructor ... " />
+            <marker date="1537337208000" expanded="true" signature="9176:9467" ph="{...}" />
+            <marker date="1537337208000" expanded="false" signature="9526:12256" ph="Public Instance Properties" />
+            <marker date="1537337208000" expanded="true" signature="9570:10035" ph="/// Gets the fully qualified class name of the caller making the logging  ... " />
+            <marker date="1537337208000" expanded="true" signature="10067:10127" ph="{...}" />
+            <marker date="1537337208000" expanded="true" signature="10137:10431" ph="/// Gets the file name of the caller. ... " />
+            <marker date="1537337208000" expanded="true" signature="10462:10521" ph="{...}" />
+            <marker date="1537337208000" expanded="true" signature="10531:10831" ph="/// Gets the line number of the caller. ... " />
+            <marker date="1537337208000" expanded="true" signature="10864:10925" ph="{...}" />
+            <marker date="1537337208000" expanded="true" signature="10935:11235" ph="/// Gets the method name of the caller. ... " />
+            <marker date="1537337208000" expanded="true" signature="11268:11329" ph="{...}" />
+            <marker date="1537337208000" expanded="true" signature="11339:11837" ph="/// Gets all available caller information ... " />
+            <marker date="1537337208000" expanded="true" signature="11868:11927" ph="{...}" />
+            <marker date="1537337208000" expanded="true" signature="11968:12096" ph="/// Gets the stack frames from the stack trace of the caller making the log request ... " />
+            <marker date="1537337208000" expanded="true" signature="12140:12202" ph="{...}" />
+            <marker date="1537337208000" expanded="false" signature="12266:12662" ph="Private Instance Fields" />
+            <marker date="1537337208000" expanded="false" signature="12672:13315" ph="Private Static Fields" />
+            <marker date="1537337208000" expanded="true" signature="12711:12947" ph="/// The fully qualified type of the LocationInfo class. ... " />
+            <marker date="1537337208000" expanded="true" signature="13032:13234" ph="/// When location information is not available the constant ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogApiHandler/Core/StackFrameItem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1537337204000" expanded="false" signature="6:117" ph="..." />
+            <marker date="1537337204000" expanded="true" signature="147:4868" ph="{...}" />
+            <marker date="1537337204000" expanded="true" signature="183:4866" ph="{...}" />
+            <marker date="1537337204000" expanded="false" signature="198:1462" ph="Public Instance Constructors" />
+            <marker date="1537337204000" expanded="true" signature="244:418" ph="/// returns a stack frame item from a stack frame. This  ... " />
+            <marker date="1537337204000" expanded="true" signature="466:1442" ph="{...}" />
+            <marker date="1537337204000" expanded="true" signature="658:1234" ph="{...}" />
+            <marker date="1537337204000" expanded="true" signature="1006:1220" ph="{...}" />
+            <marker date="1537337204000" expanded="true" signature="1267:1296" ph="{...}" />
+            <marker date="1537337204000" expanded="false" signature="1472:3916" ph="Public Instance Properties" />
+            <marker date="1537337204000" expanded="true" signature="1516:1981" ph="/// Gets the fully qualified class name of the caller making the logging  ... " />
+            <marker date="1537337204000" expanded="true" signature="2013:2073" ph="{...}" />
+            <marker date="1537337204000" expanded="true" signature="2083:2377" ph="/// Gets the file name of the caller. ... " />
+            <marker date="1537337204000" expanded="true" signature="2408:2467" ph="{...}" />
+            <marker date="1537337204000" expanded="true" signature="2477:2777" ph="/// Gets the line number of the caller. ... " />
+            <marker date="1537337204000" expanded="true" signature="2810:2871" ph="{...}" />
+            <marker date="1537337204000" expanded="true" signature="2881:3181" ph="/// Gets the method name of the caller. ... " />
+            <marker date="1537337204000" expanded="true" signature="3214:3271" ph="{...}" />
+            <marker date="1537337204000" expanded="true" signature="3281:3779" ph="/// Gets all available caller information ... " />
+            <marker date="1537337204000" expanded="true" signature="3810:3869" ph="{...}" />
+            <marker date="1537337204000" expanded="false" signature="3926:4203" ph="Private Instance Fields" />
+            <marker date="1537337204000" expanded="false" signature="4213:4860" ph="Private Static Fields" />
+            <marker date="1537337204000" expanded="true" signature="4252:4490" ph="/// The fully qualified type of the StackFrameItem class. ... " />
+            <marker date="1537337204000" expanded="true" signature="4577:4779" ph="/// When location information is not available the constant ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogApiHandler/Common/RequestHelpers.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="104" column="33" selection-start-line="104" selection-start-column="27" selection-end-line="104" selection-end-column="33" />
+          <folding>
+            <marker date="1537337282000" expanded="false" signature="6:315" ph="..." />
+            <marker date="1537337282000" expanded="true" signature="347:9413" ph="{...}" />
+            <marker date="1537337282000" expanded="true" signature="383:9411" ph="{...}" />
+            <marker date="1537337282000" expanded="true" signature="398:564" ph="/// 组装普通文本请求参数。 ... " />
+            <marker date="1537337282000" expanded="true" signature="644:1512" ph="{...}" />
+            <marker date="1537337282000" expanded="true" signature="871:1461" ph="{...}" />
+            <marker date="1537337282000" expanded="true" signature="1097:1447" ph="{...}" />
+            <marker date="1537337282000" expanded="true" signature="1149:1239" ph="{...}" />
+            <marker date="1537337282000" expanded="true" signature="1522:1744" ph="/// 执行HTTP POST请求。 ... " />
+            <marker date="1537337282000" expanded="true" signature="1832:2441" ph="{...}" />
+            <marker date="1537337282000" expanded="true" signature="2451:2686" ph="/// 执行HTTP POST请求。 ... " />
+            <marker date="1537337282000" expanded="true" signature="2747:3338" ph="{...}" />
+            <marker date="1537337282000" expanded="true" signature="3347:3555" ph="/// post数据 T messagepack序列化格式 减少传输数据大小 ... " />
+            <marker date="1537337282000" expanded="true" signature="3613:4360" ph="{...}" />
+            <marker date="1537337282000" expanded="true" signature="3679:3862" ph="/* MessagePack.Resolvers.CompositeResolver.RegisterAndSetAsDefault( ... */" />
+            <marker date="1537337282000" expanded="true" signature="4370:4605" ph="/// 执行HTTP POST请求。 ... " />
+            <marker date="1537337282000" expanded="true" signature="4670:5288" ph="{...}" />
+            <marker date="1537337282000" expanded="true" signature="5297:5490" ph="/// 执行HTTP GET请求。 ... " />
+            <marker date="1537337282000" expanded="true" signature="5577:6306" ph="{...}" />
+            <marker date="1537337282000" expanded="true" signature="5647:5931" ph="{...}" />
+            <marker date="1537337282000" expanded="true" signature="5700:5798" ph="{...}" />
+            <marker date="1537337282000" expanded="true" signature="5819:5917" ph="{...}" />
+            <marker date="1537337282000" expanded="true" signature="6385:6535" ph="{...}" />
+            <marker date="1537337282000" expanded="true" signature="6545:6732" ph="/// 把响应流转换为文本。 ... " />
+            <marker date="1537337282000" expanded="true" signature="6821:7371" ph="{...}" />
+            <marker date="1537337282000" expanded="true" signature="6922:7139" ph="{...}" />
+            <marker date="1537337282000" expanded="true" signature="7159:7361" ph="{...}" />
+            <marker date="1537337282000" expanded="true" signature="7459:9405" ph="{...}" />
+            <marker date="1537337282000" expanded="true" signature="7558:9252" ph="{...}" />
+            <marker date="1537337282000" expanded="true" signature="7682:7759" ph="{...}" />
+            <marker date="1537337282000" expanded="true" signature="8177:9132" ph="{...}" />
+            <marker date="1537337282000" expanded="true" signature="8464:8609" ph="{...}" />
+            <marker date="1537337282000" expanded="true" signature="8689:8837" ph="{...}" />
+            <marker date="1537337282000" expanded="true" signature="9166:9238" ph="{...}" />
+            <marker date="1537337282000" expanded="true" signature="9288:9362" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogApiHandler/LogEventData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1537337400000" expanded="false" signature="6:85" ph="..." />
+            <marker date="1537337400000" expanded="true" signature="110:1430" ph="{...}" />
+            <marker date="1537337400000" expanded="true" signature="121:187" ph="/// 日志数据 ... " />
+            <marker date="1537337400000" expanded="true" signature="217:1424" ph="{...}" />
+            <marker date="1537337400000" expanded="true" signature="232:283" ph="/// 时间 ... " />
+            <marker date="1537337400000" expanded="true" signature="335:388" ph="/// 错误级别 ... " />
+            <marker date="1537337400000" expanded="true" signature="439:492" ph="/// 日志来源 ... " />
+            <marker date="1537337400000" expanded="true" signature="547:600" ph="/// 日志信息 ... " />
+            <marker date="1537337400000" expanded="true" signature="653:704" ph="/// 类名 ... " />
+            <marker date="1537337400000" expanded="true" signature="759:811" ph="/// 方法名 ... " />
+            <marker date="1537337400000" expanded="true" signature="867:920" ph="/// 完整信息 ... " />
+            <marker date="1537337400000" expanded="true" signature="974:1033" ph="/// 行号 ... " />
+            <marker date="1537337400000" expanded="true" signature="1089:1149" ph="/// 文件名 ... " />
+            <marker date="1537337400000" expanded="true" signature="1203:1254" ph="/// ip ... " />
+            <marker date="1537337400000" expanded="true" signature="1302:1375" ph="/// 不为空则发送邮件，多个接收人用英文分号 ; 隔开 ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogWebApi/Controllers/LogController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-484">
+          <caret line="31" column="15" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="15" />
+          <folding>
+            <marker date="1537337066000" expanded="false" signature="6:345" ph="..." />
+            <marker date="1537337066000" expanded="true" signature="378:2425" ph="{...}" />
+            <marker date="1537337066000" expanded="true" signature="488:2423" ph="{...}" />
+            <marker date="1537337066000" expanded="true" signature="705:824" ph="{...}" />
+            <marker date="1537337066000" expanded="true" signature="926:970" ph="{...}" />
+            <marker date="1537337066000" expanded="true" signature="1071:1116" ph="{...}" />
+            <marker date="1537337066000" expanded="true" signature="1215:1259" ph="{...}" />
+            <marker date="1537337066000" expanded="true" signature="1358:1402" ph="{...}" />
+            <marker date="1537337066000" expanded="true" signature="1503:1547" ph="{...}" />
+            <marker date="1537337066000" expanded="true" signature="1648:1692" ph="{...}" />
+            <marker date="1537337066000" expanded="true" signature="1742:2064" ph="{...}" />
+            <marker date="1537337066000" expanded="true" signature="1782:2054" ph="{...}" />
+            <marker date="1537337066000" expanded="true" signature="1900:2040" ph="{...}" />
+            <marker date="1537337066000" expanded="true" signature="2203:2417" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogApiHandler/LogEventDataAsync.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-229">
+          <folding>
+            <marker date="1537253644000" expanded="true" signature="6:92" ph="..." />
+            <marker date="1537253644000" expanded="true" signature="117:970" ph="{...}" />
+            <marker date="1537253644000" expanded="true" signature="124:281" ph="/// 日志数据，传入异步执行方法的数据 ... " />
+            <marker date="1537253644000" expanded="true" signature="318:968" ph="{...}" />
+            <marker date="1537253644000" expanded="true" signature="377:430" ph="/// 错误级别 ... " />
+            <marker date="1537253644000" expanded="true" signature="481:534" ph="/// 日志来源 ... " />
+            <marker date="1537253644000" expanded="true" signature="589:648" ph="/// 调用日志方法实例类型 ... " />
+            <marker date="1537253644000" expanded="true" signature="724:783" ph="/// StackTrace ... " />
+            <marker date="1537253644000" expanded="true" signature="849:919" ph="/// 不为空则发送邮件，多个接收人用英文逗号隔开 ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogApiHandler/Logger.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2366">
+          <caret line="172" column="58" selection-start-line="172" selection-start-column="58" selection-end-line="172" selection-end-column="58" />
+          <folding>
+            <marker date="1537260180000" expanded="false" signature="6:67" ph="..." />
+            <marker date="1537260180000" expanded="true" signature="92:6007" ph="{...}" />
+            <marker date="1537260180000" expanded="true" signature="118:6001" ph="{...}" />
+            <marker date="1537260180000" expanded="true" signature="202:257" ph="/// 日志写入实例 ... " />
+            <marker date="1537260180000" expanded="true" signature="311:387" ph="/// 日志来源 ... " />
+            <marker date="1537260180000" expanded="true" signature="446:501" ph="/// 私有构造函数 ... " />
+            <marker date="1537260180000" expanded="true" signature="526:597" ph="{...}" />
+            <marker date="1537260180000" expanded="true" signature="606:710" ph="/// 私有构造函数 ... " />
+            <marker date="1537260180000" expanded="true" signature="758:814" ph="{...}" />
+            <marker date="1537260180000" expanded="true" signature="831:1018" ph="/// 获取Logger实例 ... " />
+            <marker date="1537260180000" expanded="true" signature="1080:1154" ph="{...}" />
+            <marker date="1537260180000" expanded="true" signature="1163:1335" ph="/// Trace ... " />
+            <marker date="1537260180000" expanded="true" signature="1399:1481" ph="{...}" />
+            <marker date="1537260180000" expanded="true" signature="1490:1657" ph="/// Trace ... " />
+            <marker date="1537260180000" expanded="true" signature="1719:1820" ph="{...}" />
+            <marker date="1537260180000" expanded="true" signature="1829:2001" ph="/// Debug ... " />
+            <marker date="1537260180000" expanded="true" signature="2065:2147" ph="{...}" />
+            <marker date="1537260180000" expanded="true" signature="2156:2323" ph="/// Debug ... " />
+            <marker date="1537260180000" expanded="true" signature="2385:2473" ph="{...}" />
+            <marker date="1537260180000" expanded="true" signature="2482:2653" ph="/// Info ... " />
+            <marker date="1537260180000" expanded="true" signature="2716:2797" ph="{...}" />
+            <marker date="1537260180000" expanded="true" signature="2806:2972" ph="/// Info ... " />
+            <marker date="1537260180000" expanded="true" signature="3033:3120" ph="{...}" />
+            <marker date="1537260180000" expanded="true" signature="3129:3300" ph="/// Warn ... " />
+            <marker date="1537260180000" expanded="true" signature="3363:3444" ph="{...}" />
+            <marker date="1537260180000" expanded="true" signature="3453:3619" ph="/// Warn ... " />
+            <marker date="1537260180000" expanded="true" signature="3680:3767" ph="{...}" />
+            <marker date="1537260180000" expanded="true" signature="3776:3948" ph="/// Error ... " />
+            <marker date="1537260180000" expanded="true" signature="4012:4094" ph="{...}" />
+            <marker date="1537260180000" expanded="true" signature="4103:4270" ph="/// Error ... " />
+            <marker date="1537260180000" expanded="true" signature="4332:4420" ph="{...}" />
+            <marker date="1537260180000" expanded="true" signature="4429:4601" ph="/// Fatal ... " />
+            <marker date="1537260180000" expanded="true" signature="4665:4747" ph="{...}" />
+            <marker date="1537260180000" expanded="true" signature="4756:4923" ph="/// Fatal ... " />
+            <marker date="1537260180000" expanded="true" signature="4985:5073" ph="{...}" />
+            <marker date="1537260180000" expanded="true" signature="5082:5295" ph="/// 写日志 ... " />
+            <marker date="1537260180000" expanded="true" signature="5383:5995" ph="{...}" />
+            <marker date="1537260180000" expanded="true" signature="5409:5927" ph="{...}" />
+            <marker date="1537260180000" expanded="true" signature="5503:5832" ph="{...}" />
+            <marker date="1537260180000" expanded="true" signature="5945:5973" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogApiHandler/LogWriter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="26" column="78" selection-start-line="26" selection-start-column="61" selection-end-line="26" selection-end-column="78" />
+          <folding>
+            <marker date="1537099586000" expanded="false" signature="6:67" ph="..." />
+            <marker date="1537099586000" expanded="true" signature="92:1981" ph="{...}" />
+            <marker date="1537099586000" expanded="true" signature="99:149" ph="/// LogWriter ... " />
+            <marker date="1537099586000" expanded="true" signature="178:1979" ph="{...}" />
+            <marker date="1537099586000" expanded="true" signature="193:248" ph="/// 私有构造函数 ... " />
+            <marker date="1537099586000" expanded="true" signature="289:383" ph="/// 获取LogWriter实例 ... " />
+            <marker date="1537099586000" expanded="true" signature="430:498" ph="{...}" />
+            <marker date="1537099586000" expanded="true" signature="568:855" ph="{...}" />
+            <marker date="1537099586000" expanded="true" signature="864:1004" ph="/// 获取日志数据 ... " />
+            <marker date="1537099586000" expanded="true" signature="1090:1973" ph="{...}" />
+            <marker date="1537099586000" expanded="true" signature="1311:1934" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogApiHandler/Core/MethodItem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1537337208000" expanded="false" signature="6:92" ph="..." />
+            <marker date="1537337208000" expanded="true" signature="122:4253" ph="{...}" />
+            <marker date="1537337208000" expanded="true" signature="154:4251" ph="{...}" />
+            <marker date="1537337208000" expanded="false" signature="169:1419" ph="Public Instance Constructors" />
+            <marker date="1537337208000" expanded="true" signature="215:311" ph="/// constructs a method item for an unknown method. ... " />
+            <marker date="1537337208000" expanded="true" signature="339:426" ph="{...}" />
+            <marker date="1537337208000" expanded="true" signature="436:578" ph="/// constructs a method item from the name of the method. ... " />
+            <marker date="1537337208000" expanded="true" signature="638:685" ph="{...}" />
+            <marker date="1537337208000" expanded="true" signature="695:902" ph="/// constructs a method item from the name of the method and its parameters. ... " />
+            <marker date="1537337208000" expanded="true" signature="987:1046" ph="{...}" />
+            <marker date="1537337208000" expanded="true" signature="1056:1245" ph="/// constructs a method item from a method base by determining the method name and its parameters. ... " />
+            <marker date="1537337208000" expanded="true" signature="1379:1399" ph="{...}" />
+            <marker date="1537337208000" expanded="true" signature="1517:2326" ph="{...}" />
+            <marker date="1537337208000" expanded="true" signature="1605:2068" ph="{...}" />
+            <marker date="1537337208000" expanded="true" signature="1890:2054" ph="{...}" />
+            <marker date="1537337208000" expanded="true" signature="2101:2240" ph="{...}" />
+            <marker date="1537337208000" expanded="false" signature="2336:3442" ph="Public Instance Properties" />
+            <marker date="1537337208000" expanded="true" signature="2380:2800" ph="/// Gets the method name of the caller making the logging  ... " />
+            <marker date="1537337208000" expanded="true" signature="2827:2882" ph="{...}" />
+            <marker date="1537337208000" expanded="true" signature="2892:3326" ph="/// Gets the method parameters of the caller making ... " />
+            <marker date="1537337208000" expanded="true" signature="3361:3422" ph="{...}" />
+            <marker date="1537337208000" expanded="false" signature="3452:3592" ph="Private Instance Fields" />
+            <marker date="1537337208000" expanded="false" signature="3602:4245" ph="Private Static Fields" />
+            <marker date="1537337208000" expanded="true" signature="3641:3879" ph="/// The fully qualified type of the StackFrameItem class. ... " />
+            <marker date="1537337208000" expanded="true" signature="3962:4164" ph="/// When location information is not available the constant ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogApiHandler/Extensions/LoggerServiceExtension.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1537260170000" expanded="false" signature="6:114" ph="..." />
+            <marker date="1537260170000" expanded="true" signature="150:724" ph="{...}" />
+            <marker date="1537260170000" expanded="true" signature="157:207" ph="/// 日志服务注入扩展类 ... " />
+            <marker date="1537260170000" expanded="true" signature="254:722" ph="{...}" />
+            <marker date="1537260170000" expanded="true" signature="269:501" ph="/// 注入日志服务 ... " />
+            <marker date="1537260170000" expanded="true" signature="615:716" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogApiHandler/LogLevel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-199">
+          <caret line="96" column="58" selection-start-line="96" selection-start-column="42" selection-end-line="96" selection-end-column="58" />
+          <folding>
+            <marker date="1540650186295" expanded="false" signature="6:85" ph="..." />
+            <marker date="1540650186295" expanded="true" signature="110:4267" ph="{...}" />
+            <marker date="1540650186295" expanded="true" signature="144:4265" ph="{...}" />
+            <marker date="1540650186295" expanded="true" signature="159:232" ph="/// Trace log level. ... " />
+            <marker date="1540650186295" expanded="true" signature="316:389" ph="/// Debug log level. ... " />
+            <marker date="1540650186295" expanded="true" signature="473:545" ph="/// Info log level. ... " />
+            <marker date="1540650186295" expanded="true" signature="627:699" ph="/// Warn log level. ... " />
+            <marker date="1540650186295" expanded="true" signature="781:854" ph="/// Error log level. ... " />
+            <marker date="1540650186295" expanded="true" signature="938:1011" ph="/// Fatal log level. ... " />
+            <marker date="1540650186295" expanded="true" signature="1172:1405" ph="/// Initializes a new instance of &lt;see cref=&quot;LogLevel&quot;/&gt;. ... " />
+            <marker date="1540650186295" expanded="true" signature="1456:1534" ph="{...}" />
+            <marker date="1540650186295" expanded="true" signature="1543:1623" ph="/// Gets the name of the log level. ... " />
+            <marker date="1540650186295" expanded="true" signature="1669:1752" ph="/// Gets the ordinal of the log level. ... " />
+            <marker date="1540650186295" expanded="true" signature="1801:1854" ph="/// 请求地址 ... " />
+            <marker date="1540650186295" expanded="true" signature="1883:2845" ph="{...}" />
+            <marker date="1540650186295" expanded="true" signature="1909:2835" ph="{...}" />
+            <marker date="1540650186295" expanded="true" signature="1954:2821" ph="{...}" />
+            <marker date="1540650186295" expanded="true" signature="2854:3147" ph="/// Returns the &lt;see cref=&quot;T:NLog.LogLevel&quot;/&gt; that corresponds to the supplied &lt;see langword=&quot;string&quot; /&gt;. ... " />
+            <marker date="1540650186295" expanded="true" signature="3207:4259" ph="{...}" />
+            <marker date="1540650186295" expanded="true" signature="3252:3348" ph="{...}" />
+            <marker date="1540650186295" expanded="true" signature="3428:3486" ph="{...}" />
+            <marker date="1540650186295" expanded="true" signature="3566:3624" ph="{...}" />
+            <marker date="1540650186295" expanded="true" signature="3703:3760" ph="{...}" />
+            <marker date="1540650186295" expanded="true" signature="3839:3896" ph="{...}" />
+            <marker date="1540650186295" expanded="true" signature="3976:4034" ph="{...}" />
+            <marker date="1540650186295" expanded="true" signature="4114:4172" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestApi/Controllers/ValuesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <marker date="1537365990000" expanded="false" signature="6:149" ph="..." />
+            <marker date="1537365990000" expanded="true" signature="180:1177" ph="{...}" />
+            <marker date="1537365990000" expanded="true" signature="285:1175" ph="{...}" />
+            <marker date="1537365990000" expanded="true" signature="370:420" ph="{...}" />
+            <marker date="1537365990000" expanded="true" signature="519:653" ph="{...}" />
+            <marker date="1537365990000" expanded="true" signature="756:804" ph="{...}" />
+            <marker date="1537365990000" expanded="true" signature="901:921" ph="{...}" />
+            <marker date="1537365990000" expanded="true" signature="1033:1053" ph="{...}" />
+            <marker date="1537365990000" expanded="true" signature="1149:1169" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleTestApp/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <marker date="1540651147602" expanded="false" signature="6:150" ph="..." />
+            <marker date="1540651147602" expanded="true" signature="176:458" ph="{...}" />
+            <marker date="1540651147602" expanded="true" signature="196:452" ph="{...}" />
+            <marker date="1540651147602" expanded="true" signature="318:438" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogWebApi/web.config">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogWebApi/Common/EmailHelpers.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1537258438000" expanded="false" signature="6:278" ph="..." />
+            <marker date="1537258438000" expanded="true" signature="306:3080" ph="{...}" />
+            <marker date="1537258438000" expanded="true" signature="338:3078" ph="{...}" />
+            <marker date="1537258438000" expanded="true" signature="456:532" ph="{...}" />
+            <marker date="1537258438000" expanded="true" signature="541:739" ph="/// 异步发送邮件 ... " />
+            <marker date="1537258438000" expanded="true" signature="820:963" ph="{...}" />
+            <marker date="1537258438000" expanded="true" signature="870:951" ph="{...}" />
+            <marker date="1537258438000" expanded="true" signature="972:1202" ph="/// 邮件发送方法 ... " />
+            <marker date="1537258438000" expanded="true" signature="1279:3072" ph="{...}" />
+            <marker date="1537258438000" expanded="true" signature="1690:2975" ph="{...}" />
+            <marker date="1537258438000" expanded="true" signature="1922:2001" ph="{...}" />
+            <marker date="1537258438000" expanded="true" signature="3008:3062" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogWebApi/Model/QueryModel/QueryLogModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1537026164000" expanded="false" signature="6:96" ph="..." />
+            <marker date="1537026164000" expanded="true" signature="123:721" ph="{...}" />
+            <marker date="1537026164000" expanded="true" signature="156:719" ph="{...}" />
+            <marker date="1537026164000" expanded="true" signature="263:362" ph="{...}" />
+            <marker date="1537026164000" expanded="true" signature="390:487" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogWebApi/Model/ResponseModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1537255338000" expanded="false" signature="6:114" ph="..." />
+            <marker date="1537255338000" expanded="true" signature="141:945" ph="{...}" />
+            <marker date="1537255338000" expanded="true" signature="177:943" ph="{...}" />
+            <marker date="1537255338000" expanded="true" signature="344:396" ph="/// 返回码 ... " />
+            <marker date="1537255338000" expanded="true" signature="437:548" ph="{...}" />
+            <marker date="1537255338000" expanded="true" signature="557:610" ph="/// 结果说明 ... " />
+            <marker date="1537255338000" expanded="true" signature="640:745" ph="{...}" />
+            <marker date="1537255338000" expanded="true" signature="762:816" ph="/// 返回的数据 ... " />
+            <marker date="1537255338000" expanded="true" signature="838:937" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogWebApi/Model/LogEventData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1537162852000" expanded="false" signature="6:101" ph="..." />
+            <marker date="1537162852000" expanded="true" signature="128:1662" ph="{...}" />
+            <marker date="1537162852000" expanded="true" signature="160:1660" ph="{...}" />
+            <marker date="1537162852000" expanded="true" signature="233:284" ph="/// 时间 ... " />
+            <marker date="1537162852000" expanded="true" signature="429:482" ph="/// 错误级别 ... " />
+            <marker date="1537162852000" expanded="true" signature="533:586" ph="/// 日志来源 ... " />
+            <marker date="1537162852000" expanded="true" signature="641:694" ph="/// 日志信息 ... " />
+            <marker date="1537162852000" expanded="true" signature="747:798" ph="/// 类名 ... " />
+            <marker date="1537162852000" expanded="true" signature="853:905" ph="/// 方法名 ... " />
+            <marker date="1537162852000" expanded="true" signature="961:1014" ph="/// 完整信息 ... " />
+            <marker date="1537162852000" expanded="true" signature="1068:1127" ph="/// 行号 ... " />
+            <marker date="1537162852000" expanded="true" signature="1183:1243" ph="/// 文件名 ... " />
+            <marker date="1537162852000" expanded="true" signature="1297:1348" ph="/// ip ... " />
+            <marker date="1537162852000" expanded="true" signature="1396:1473" ph="/// 是否发送邮件,不为空则发送邮件，多个接收人用英文逗号隔开 ... " />
+            <marker date="1537162852000" expanded="true" signature="1580:1654" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogWebApi/Model/AppSettings/DBSettings.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1537338562000" expanded="false" signature="6:96" ph="..." />
+            <marker date="1537338562000" expanded="true" signature="135:536" ph="{...}" />
+            <marker date="1537338562000" expanded="true" signature="142:190" ph="/// 数据库配置信息 ... " />
+            <marker date="1537338562000" expanded="true" signature="218:534" ph="{...}" />
+            <marker date="1537338562000" expanded="true" signature="233:306" ph="/// mongodb connectionstring ... " />
+            <marker date="1537338562000" expanded="true" signature="368:433" ph="/// mongodb database ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogWebApi/Extensions/ExceptionMiddlewareExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1537253342000" expanded="false" signature="6:345" ph="..." />
+            <marker date="1537253342000" expanded="true" signature="377:1658" ph="{...}" />
+            <marker date="1537253342000" expanded="true" signature="384:434" ph="/// 全局异常处理中间件 ... " />
+            <marker date="1537253342000" expanded="true" signature="488:1656" ph="{...}" />
+            <marker date="1537253342000" expanded="true" signature="608:1650" ph="{...}" />
+            <marker date="1537253342000" expanded="true" signature="735:1638" ph="{...}" />
+            <marker date="1537253342000" expanded="true" signature="795:1622" ph="{...}" />
+            <marker date="1537253342000" expanded="true" signature="1115:1604" ph="{...}" />
+            <marker date="1537253342000" expanded="true" signature="1225:1463" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogWebApi/Model/AppSettings/AppSettings.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1537170610000" expanded="true" signature="37:426" ph="{...}" />
+            <marker date="1537170610000" expanded="true" signature="68:135" ph="{...}" />
+            <marker date="1537170610000" expanded="true" signature="165:424" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogWebApi/Repository/IRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1536936814000" expanded="true" signature="6:96" ph="..." />
+            <marker date="1536936814000" expanded="true" signature="128:380" ph="{...}" />
+            <marker date="1536936814000" expanded="true" signature="180:378" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogWebApi/Context/MongoContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="47" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="47" />
+          <folding>
+            <marker date="1537339178000" expanded="true" signature="6:115" ph="..." />
+            <marker date="1537339178000" expanded="true" signature="144:829" ph="{...}" />
+            <marker date="1537339178000" expanded="true" signature="176:827" ph="{...}" />
+            <marker date="1537339178000" expanded="true" signature="359:618" ph="{...}" />
+            <marker date="1537339178000" expanded="true" signature="679:821" ph="{...}" />
+            <marker date="1537339178000" expanded="true" signature="705:811" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogWebApi/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1536810242000" expanded="true" signature="6:255" ph="..." />
+            <marker date="1536810242000" expanded="true" signature="280:607" ph="{...}" />
+            <marker date="1536810242000" expanded="true" signature="307:605" ph="{...}" />
+            <marker date="1536810242000" expanded="true" signature="360:434" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogWebApi/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogWebApi/Repository/LogRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="16" column="58" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="58" />
+          <folding>
+            <marker date="1537254408000" expanded="false" signature="6:276" ph="..." />
+            <marker date="1537254408000" expanded="true" signature="308:2496" ph="{...}" />
+            <marker date="1537254408000" expanded="true" signature="369:2494" ph="{...}" />
+            <marker date="1537254408000" expanded="true" signature="490:561" ph="{...}" />
+            <marker date="1537254408000" expanded="true" signature="612:695" ph="{...}" />
+            <marker date="1537254408000" expanded="true" signature="777:1949" ph="{...}" />
+            <marker date="1537254408000" expanded="true" signature="963:1050" ph="{...}" />
+            <marker date="1537254408000" expanded="true" signature="1106:1210" ph="{...}" />
+            <marker date="1537254408000" expanded="true" signature="1264:1405" ph="{...}" />
+            <marker date="1537254408000" expanded="true" signature="1459:1559" ph="{...}" />
+            <marker date="1537254408000" expanded="true" signature="1610:1708" ph="{...}" />
+            <marker date="1537254408000" expanded="false" signature="1958:2488" ph="未实现方法" />
+            <marker date="1537254408000" expanded="true" signature="2026:2095" ph="{...}" />
+            <marker date="1537254408000" expanded="true" signature="2158:2227" ph="{...}" />
+            <marker date="1537254408000" expanded="true" signature="2272:2341" ph="{...}" />
+            <marker date="1537254408000" expanded="true" signature="2399:2468" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogWebApi/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="44" column="13" lean-forward="true" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+          <folding>
+            <marker date="1537339090000" expanded="true" signature="6:591" ph="..." />
+            <marker date="1537339090000" expanded="true" signature="616:2651" ph="{...}" />
+            <marker date="1537339090000" expanded="true" signature="643:2649" ph="{...}" />
+            <marker date="1537339090000" expanded="true" signature="702:765" ph="{...}" />
+            <marker date="1537339090000" expanded="true" signature="988:1734" ph="{...}" />
+            <marker date="1537339090000" expanded="true" signature="1233:1571" ph="注入config和数据访问信息" />
+            <marker date="1537339090000" expanded="true" signature="1611:1722" ph="{...}" />
+            <marker date="1537339090000" expanded="true" signature="1952:2643" ph="{...}" />
+            <marker date="1537339090000" expanded="true" signature="1999:2076" ph="{...}" />
+            <marker date="1537339090000" expanded="true" signature="2200:2317" ph="/* Enable middleware to serve swagger-ui (HTML, JS, CSS, etc.), ... */" />
+            <marker date="1537339090000" expanded="true" signature="2351:2550" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

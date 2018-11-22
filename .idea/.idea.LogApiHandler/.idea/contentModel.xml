@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2018.1/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_LogApiHandler.1845363106.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="ConsoleTestApp" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ConsoleTestApp.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="ConsoleTestApp.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="LogApiHandler" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Common" t="Include">
+          <e p="AsyncHelpers.cs" t="Include" />
+          <e p="RequestHelpers.cs" t="Include" />
+        </e>
+        <e p="Core" t="Include">
+          <e p="LocationInfo.cs" t="Include" />
+          <e p="MethodItem.cs" t="Include" />
+          <e p="StackFrameItem.cs" t="Include" />
+        </e>
+        <e p="Extensions" t="Include">
+          <e p="LoggerServiceExtension.cs" t="Include" />
+        </e>
+        <e p="Filters" t="Include" />
+        <e p="LogApiHandler.csproj" t="IncludeRecursive" />
+        <e p="LogEventData.cs" t="Include" />
+        <e p="LogEventDataAsync.cs" t="Include" />
+        <e p="Logger.cs" t="Include" />
+        <e p="LogLevel.cs" t="Include" />
+        <e p="LogWriter.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="LogApiHandler.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="LogApiHandler.sln" t="IncludeFlat" />
+      <e p="LogWebApi" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Common" t="Include">
+          <e p="EmailHelpers.cs" t="Include" />
+        </e>
+        <e p="Context" t="Include">
+          <e p="MongoContext.cs" t="Include" />
+        </e>
+        <e p="Controllers" t="Include">
+          <e p="LogController.cs" t="Include" />
+          <e p="ValuesController.cs" t="Include" />
+        </e>
+        <e p="Extensions" t="Include">
+          <e p="ExceptionMiddlewareExtensions.cs" t="Include" />
+        </e>
+        <e p="LogWebApi.csproj" t="IncludeRecursive" />
+        <e p="Model" t="Include">
+          <e p="AppSettings" t="Include">
+            <e p="AppSettings.cs" t="Include" />
+            <e p="DBSettings.cs" t="Include" />
+          </e>
+          <e p="LogEventData.cs" t="Include" />
+          <e p="QueryModel" t="Include">
+            <e p="QueryLogModel.cs" t="Include" />
+          </e>
+          <e p="ResponseModel.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="LogWebApi.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+          <e p="PublishProfiles" t="Include">
+            <e p="CustomProfile.pubxml" t="Include" />
+          </e>
+        </e>
+        <e p="Repository" t="Include">
+          <e p="IRepository.cs" t="Include" />
+          <e p="LogRepository.cs" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="web.config" t="Include" />
+        <e p="wwwroot" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="TestApi" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="ValuesController.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="TestApi.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="TestApi.csproj" t="IncludeRecursive" />
+        <e p="wwwroot" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>

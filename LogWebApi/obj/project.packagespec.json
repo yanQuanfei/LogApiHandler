@@ -1,0 +1,73 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/yanquanfei/NetCode/LogApiHandler/LogWebApi/LogWebApi.csproj",
+    "projectName": "LogWebApi",
+    "projectPath": "/Users/yanquanfei/NetCode/LogApiHandler/LogWebApi/LogWebApi.csproj",
+    "outputPath": "/Users/yanquanfei/NetCode/LogApiHandler/LogWebApi/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "MessagePack": {
+          "target": "Package",
+          "version": "[1.7.3.4, )"
+        },
+        "Microsoft.AspNetCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.1, )",
+          "autoReferenced": true
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        },
+        "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+          "target": "Package",
+          "version": "[2.1.1, )"
+        },
+        "MongoDB.Driver": {
+          "target": "Package",
+          "version": "[2.7.0, )"
+        },
+        "Swashbuckle.AspNetCore": {
+          "target": "Package",
+          "version": "[3.0.0, )"
+        },
+        "System.Text.Encoding.CodePages": {
+          "target": "Package",
+          "version": "[4.5.0, )"
+        },
+        "WebApiContrib.Core.Formatter.MessagePack": {
+          "target": "Package",
+          "version": "[2.0.0, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

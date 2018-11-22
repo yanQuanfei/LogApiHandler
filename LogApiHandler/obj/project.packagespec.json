@@ -1,0 +1,55 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/yanquanfei/NetCode/LogApiHandler/LogApiHandler/LogApiHandler.csproj",
+    "projectName": "LogApiHandler",
+    "projectPath": "/Users/yanquanfei/NetCode/LogApiHandler/LogApiHandler/LogApiHandler.csproj",
+    "outputPath": "/Users/yanquanfei/NetCode/LogApiHandler/LogApiHandler/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "MessagePack": {
+          "target": "Package",
+          "version": "[1.7.3.4, )"
+        },
+        "Microsoft.Extensions.DependencyInjection": {
+          "target": "Package",
+          "version": "[2.1.1, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        },
+        "Sketch7.MessagePack.MediaTypeFormatter": {
+          "target": "Package",
+          "version": "[2.0.0, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

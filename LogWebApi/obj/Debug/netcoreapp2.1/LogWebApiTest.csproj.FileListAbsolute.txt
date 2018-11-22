@@ -1,0 +1,13 @@
+C:\adwork\testvs\LogApiHandler\LogWebApiTest\bin\Debug\netcoreapp2.1\LogWebApiTest.deps.json
+C:\adwork\testvs\LogApiHandler\LogWebApiTest\bin\Debug\netcoreapp2.1\LogWebApiTest.runtimeconfig.json
+C:\adwork\testvs\LogApiHandler\LogWebApiTest\bin\Debug\netcoreapp2.1\LogWebApiTest.runtimeconfig.dev.json
+C:\adwork\testvs\LogApiHandler\LogWebApiTest\bin\Debug\netcoreapp2.1\LogWebApiTest.dll
+C:\adwork\testvs\LogApiHandler\LogWebApiTest\bin\Debug\netcoreapp2.1\LogWebApiTest.pdb
+C:\adwork\testvs\LogApiHandler\LogWebApiTest\obj\Debug\netcoreapp2.1\LogWebApiTest.csproj.CoreCompileInputs.cache
+C:\adwork\testvs\LogApiHandler\LogWebApiTest\obj\Debug\netcoreapp2.1\LogWebApiTest.RazorAssemblyInfo.cache
+C:\adwork\testvs\LogApiHandler\LogWebApiTest\obj\Debug\netcoreapp2.1\LogWebApiTest.RazorAssemblyInfo.cs
+C:\adwork\testvs\LogApiHandler\LogWebApiTest\obj\Debug\netcoreapp2.1\LogWebApiTest.AssemblyInfoInputs.cache
+C:\adwork\testvs\LogApiHandler\LogWebApiTest\obj\Debug\netcoreapp2.1\LogWebApiTest.AssemblyInfo.cs
+C:\adwork\testvs\LogApiHandler\LogWebApiTest\obj\Debug\netcoreapp2.1\LogWebApiTest.RazorTargetAssemblyInfo.cache
+C:\adwork\testvs\LogApiHandler\LogWebApiTest\obj\Debug\netcoreapp2.1\LogWebApiTest.dll
+C:\adwork\testvs\LogApiHandler\LogWebApiTest\obj\Debug\netcoreapp2.1\LogWebApiTest.pdb

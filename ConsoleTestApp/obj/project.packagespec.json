@@ -1,0 +1,51 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/yanquanfei/NetCode/LogApiHandler/ConsoleTestApp/ConsoleTestApp.csproj",
+    "projectName": "ConsoleTestApp",
+    "projectPath": "/Users/yanquanfei/NetCode/LogApiHandler/ConsoleTestApp/ConsoleTestApp.csproj",
+    "outputPath": "/Users/yanquanfei/NetCode/LogApiHandler/ConsoleTestApp/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {
+          "/Users/yanquanfei/NetCode/LogApiHandler/LogApiHandler/LogApiHandler.csproj": {
+            "projectPath": "/Users/yanquanfei/NetCode/LogApiHandler/LogApiHandler/LogApiHandler.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "MessagePack": {
+          "target": "Package",
+          "version": "[1.7.3.4, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
